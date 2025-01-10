@@ -14,7 +14,6 @@ const Landing = () => {
         <div className="space-y-4 space-x-10">
           <a
             href="https://photospot.us/photo-spots-feed"
-            target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-5 bg-yellow-500 text-white text-xl font-semibold rounded-md shadow hover:bg-yellow-600 transition"
           >
@@ -22,7 +21,6 @@ const Landing = () => {
           </a>
           <a
             href="https://photospot.us/ai-travel-planner"
-            target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-5 bg-yellow-500 text-white text-xl font-semibold rounded-md shadow hover:bg-yellow-600 transition"
           >
@@ -30,7 +28,6 @@ const Landing = () => {
           </a>
           <a
             href="https://photospot.us/tripInfo/SkEloiwnBaS7IKpHW0gY-new-york-itinerary"
-            target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-5 bg-yellow-500 text-white text-xl font-semibold rounded-md shadow hover:bg-yellow-600 transition"
           >
